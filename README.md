@@ -2,8 +2,6 @@
 
 Hey there! Welcome to my AtliQ Tees Talk to a Database project – an exciting journey where I've built a system capable of conversing with a MySQL database using LangChain and Google Palm Language Model (LLM). This system allows users to ask questions in natural language, and it intelligently generates SQL queries to interact with the AtliQ Tees T-shirt store's MySQL database.
 
-![AtliQ Tees](atliq_tees.png)
-
 ## Project Overview
 
 AtliQ Tees is an innovative T-shirt store offering Adidas, Nike, Van Heusen, and Levi's T-shirts. The store's inventory, sales, and discounts data are stored in a MySQL database. In this project, I've developed an end-to-end Question and Answer (Q&A) system that incorporates the following technologies:
