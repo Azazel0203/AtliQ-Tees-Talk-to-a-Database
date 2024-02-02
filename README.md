@@ -24,7 +24,7 @@ The UI is designed to allow store managers to ask questions in natural language,
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd 4_sqldb_tshirts
+   cd AtliQ-Tees-Talk-to-a-Database
    ```
 
 3. **Install Dependencies:**
@@ -40,7 +40,7 @@ The UI is designed to allow store managers to ask questions in natural language,
      ```
 
 5. **Database Setup:**
-   - Run `database/db_creation_atliq_t_shirts.sql` in your MySQL Workbench for database setup.
+   - Run `database/AtliQ-Tees-Talk-to-a-Database.sql` in your MySQL Workbench for database setup.
 
 ## Usage
 
